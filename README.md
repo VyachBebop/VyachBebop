@@ -23,7 +23,7 @@ Junior Java Developer | Spring Boot · SQL
 ## Educations
 
 🎓 **Java-Developer program**
-🗓️ 2024 — 2025
+🗓️ 2025 — 2026
 📍 Computer Academy TOP (Software development)
 
 🎓 **Fullstack-Developer program**
