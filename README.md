@@ -1,6 +1,6 @@
-# Hi! I'm Slava 👋
+# Hi! I'm Vyacheslav 👋
 
-Java Developer | Spring Boot · SQL
+Junior Java Developer | Spring Boot · SQL
 
 ---
 
@@ -46,6 +46,7 @@ Java Developer | Spring Boot · SQL
 
 ![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
