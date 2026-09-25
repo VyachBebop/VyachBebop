@@ -1,4 +1,4 @@
-# Hi! I'm Vyacheslav 👋
+# Hi! I'm Slava 👋
 
 Junior Java Developer | Spring Boot · SQL
 
