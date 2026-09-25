@@ -24,11 +24,11 @@ Junior Java Developer | Spring Boot · SQL
 
 🎓 **Java-Developer program**
 🗓️ 2024 — 2025
-📍 Computer Academy TOP
+📍 Computer Academy TOP (Software development)
 
 🎓 **Fullstack-Developer program**
 🗓️ 2022 — 2024
-📍 Computer Academy TOP
+📍 STEP IT Moscow (Software development)
 
 🎓 **Bachelor's degree, Law**
 🗓️ 2016 — 2019
